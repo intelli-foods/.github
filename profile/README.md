@@ -20,6 +20,10 @@ we have two repo in this organization:
 
 visit the repos to get more details for how our system work. 
 
+We also deployed our system already. Please do visit our website to play around with it. 
+
+live URL: https://intelli-foods.vercel.app/ 
+
 This repo is meant for MongoDB AI Hackathon: Code for a Cause.
 
 created by:
