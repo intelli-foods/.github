@@ -23,6 +23,7 @@ We also deployed our system already. Please do visit our website to play around 
 live URL: https://intelli-foods.vercel.app/ 
 
 YouTube Link: https://www.youtube.com/watch?v=fITj-1BY_RM 
+
 This repo is meant for MongoDB AI Hackathon: Code for a Cause.
 
 created by:
