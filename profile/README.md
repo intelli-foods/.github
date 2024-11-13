@@ -4,8 +4,6 @@ IntelliFoods is an AI-powered kitchen companion that offers two key functionalit
 1. **Smart Recipe Recommendations**: Analyzes your available ingredients and suggests possible recipes you can make right now
 2. **Intelligent Substitutions**: When you're missing an ingredient, it recommends suitable substitutions based on what you have, making recipes more accessible
 
-The system takes into account ingredient expiry dates, helping users prioritize ingredients that need to be used soon, thereby reducing food waste.
-
 Our recipe recommendation system leverages three key AI components:
 
 1. **AI21-Jamba-1.5-Mini LLM**: Integrated via LangChain for natural language understanding and generation, specifically for analyzing recipe requests and generating ingredient substitution suggestions.
@@ -24,6 +22,7 @@ We also deployed our system already. Please do visit our website to play around 
 
 live URL: https://intelli-foods.vercel.app/ 
 
+YouTube Link: https://www.youtube.com/watch?v=fITj-1BY_RM 
 This repo is meant for MongoDB AI Hackathon: Code for a Cause.
 
 created by:
